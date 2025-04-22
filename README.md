@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Pranita 👋
 
-<!--
-**pranita208/pranita208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student learning to code and exploring the world of software development.  
+Currently learning Java and Python. I’m working on small projects to grow my skills.
 
-Here are some ideas to get you started:
+### 🔭 Interests
+- Turning abstract ideas into code
+- Automating the boring stuff
+- Exploring constellations and cosmic patterns ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech I’m Playing With
+- Java
+- Python
+- Git & GitHub
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/itspranita)
+- [LeetCode](https://leetcode.com/pranita_09)
+
+---
+
+> “Somewhere, something incredible is waiting to be known.” — Carl Sagan
+
